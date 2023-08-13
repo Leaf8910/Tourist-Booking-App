@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TestDatabase2</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="date">Date:</string>
+    <string name="amount_payable">Amount Payable:</string>
+    <string name="all_city_tours_contain_transfer_lunch_attraction_tickets">All city tours contain transfer, lunch, attraction tickets</string>
+    <string name="select_date">Select Date</string>
+    <string name="about">About</string>
+    <string name="cart">Cart</string>
+    <string name="services">Services</string>
+    <string name="number_of_people">Number of People:</string>
+    <string name="additional_notes">Additional notes:</string>
+    <string name="attraction_tickets">Attraction Tickets</string>
+    <string name="transfer_services">Transfer Services</string>
+    <string name="catering_services">Catering Services</string>
+    <string name="safety_box">Safety Box</string>
+    <string name="services_menu">Services Menu</string>
+    <string name="city_tours">City Tours</string>
+    <string name="name">Name</string>
+    <string name="welcome">Welcome,</string>
+    <string name="please_choose_a_category">Please choose a category</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total" />
+</resources>
